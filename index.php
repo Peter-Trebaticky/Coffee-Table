@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <h1>Úloha 1: Kávový stôl</h1>
+    <h1>Coffee Table</h1>
     <div class="container">
         <?php
         class CoffeeTable {
